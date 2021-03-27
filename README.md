@@ -17,6 +17,7 @@ RESPOSTA:
 
 Para manter as alterações já realizadas
 1. Fazer um clone do projeto;
-2. Fazer as modificações;
-3. Abrir uma PR para o repositório principal;
-4. Sempre que houver alterações na  ersão principal dar um Git pull para atualizar a branch.
+2. Criar uma branch;
+3. Fazer as modificações;
+4. Abrir uma PR para o repositório principal;
+5. Sempre que houver alterações na  versão principal dar um Git pull para atualizar a branch.
